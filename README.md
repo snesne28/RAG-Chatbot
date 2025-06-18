@@ -1,4 +1,5 @@
 Info-Bot (RAG + Google Gemini)
+
 This project is an intelligent chatbot for my college website that uses Retrieval-Augmented Generation (RAG) and Google Gemini LLM to answer any queries related to the institution. It processes PDF documents containing web scraped data and provides accurate, context-based responses in natural language.
 
 📌 Project Description
