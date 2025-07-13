@@ -8,9 +8,9 @@ The chatbot enables users—students, faculty, or visitors—to ask questions ab
 
 It integrates:
 
-  Document parsing from PDFs
-  Embedding & storage of content using FAISS
-  Query answering with context retrieval + generative AI
+  Document parsing from PDFs, 
+  Embedding & storage of content using FAISS, 
+  Query answering with context retrieval + generative AI, 
 
 ⚙️ How It Works
 
